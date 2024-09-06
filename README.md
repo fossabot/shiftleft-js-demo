@@ -1,4 +1,6 @@
 # NodeJS Tarpit
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshunmugadigialert%2Fshiftleft-js-demo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshunmugadigialert%2Fshiftleft-js-demo?ref=badge_shield)
+
 
 An ExpressJS (tarpit) application using mongoDB.
 
@@ -84,3 +86,7 @@ http GET http://localhost:8089/user-input userInput=="res.cookie('appLocals',JSO
 - [x] [business logic flaw](src/Controllers/Order.js#L69...L79)
 - [x] [business logic flaw](src/Controllers/Order.js#L100...L110)
 - [x] [hard coded credentials](src/Controllers/Order.js#L55...L63)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshunmugadigialert%2Fshiftleft-js-demo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshunmugadigialert%2Fshiftleft-js-demo?ref=badge_large)
